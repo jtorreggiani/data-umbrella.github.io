@@ -4,6 +4,7 @@ Menca is a super fast and clean blogging theme for Jekyll. One of the main featu
 
 * * *
 
+Test
 ### Demo
 
 Check the theme in action [Live Demo](https://menca.netlify.app/) |
